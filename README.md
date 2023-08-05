@@ -1,15 +1,15 @@
 # Technology Stack
 
-- Operating System: Linux, Windows, Mac OS
-- Infrastructure-as-Code/Configuration Management: Ansible, Terraform, CloudFormation
-- Containers/Orchestration: Docker, Docker compose, Kubernetes
-- Monitoring/Logging: Grafana, Data dog, Cloud watch
-- Scripting: Bash/PowerShell, JSON/YAML
-- Source Code Management: Git, GitHub, Bitbucket, Gitlab 
-- Cloud Platform: Office 365, Amazon Web Services, Azure, Netlify, Digitalocean, Cloudflare, Vercel, Jira etc.
-- Databases: MySQL, PostgreSQL, MongoDB
-- Agile Methodologies: Scrum
-- Communication Tools: Slack, Zoom, Microsoft Teams, Anydesk
+- **Operating System:** Linux, Windows, Mac OS
+- **Infrastructure-as-Code/Configuration Management:** Ansible, Terraform, CloudFormation
+- **Containers/Orchestration:** Docker, Docker compose, Kubernetes
+- **Monitoring/Logging:** Grafana, Data dog, Cloud watch
+- **Scripting:** Bash/PowerShell, JSON/YAML
+- **Source Code Management:** Git, GitHub, Bitbucket, Gitlab 
+- **Cloud Platform:** Office 365, Amazon Web Services, Azure, Netlify, Digitalocean, Cloudflare, Vercel, Jira etc.
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Agile Methodologies:** Scrum
+- **Communication Tools:** Slack, Zoom, Microsoft Teams, Anydesk
 
 
 # About
