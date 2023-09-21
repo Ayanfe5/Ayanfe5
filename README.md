@@ -2,7 +2,7 @@
 
 - **Operating System:** Linux, Windows, Mac OS
 - **Infrastructure-as-Code/Configuration Management:** Ansible, Terraform, CloudFormation
-- **Containers/Orchestration:** Docker, Docker compose, Kubernetes
+- **Containers/Orchestration:** Docker, Docker swarm, Kubernetes
 - **Monitoring/Logging:** Grafana, Data dog, Cloud watch
 - **Scripting:** Bash/PowerShell, JSON/YAML
 - **Source Code Management:** Git, GitHub, Bitbucket, Gitlab 
@@ -14,7 +14,7 @@
 
 # About
 
-A Cloud Infrastructure/DevOps Engineer keen on automating processes in order to enhance software development, deployment, and maintenance.
+A Cloud Infrastructure Engineer keen on automating processes in order to enhance software development, deployment, and maintenance.
 
 With experience in cloud technologies such as Amazon Web Services (AWS), Microsoft Azure, Cloudflare, Netlify, Vercel, Heroku and Digital ocean. I have an understanding of infrastructure-as-code (IaC) using tools such as Terraform, Cloud formation, and Ansible to automate infrastructure provisioning and configuration management.
 
