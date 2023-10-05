@@ -2,9 +2,9 @@
 
 - **Operating System:** Linux, Windows, Mac OS
 - **Infrastructure-as-Code/Configuration Management:** Ansible, Terraform, CloudFormation
-- **Containers/Orchestration:** Docker, Docker swarm, Kubernetes
+- **Containers/Orchestration:** Docker, Docker swarm, Kubernetes(AKS/EKS)
 - **Monitoring/Logging:** Grafana, Data dog, Cloud watch
-- **Scripting:** Bash/PowerShell, JSON/YAML
+- **Scripting:** Bash/PowerShell, JSON/YAML, Python
 - **Source Code Management:** Git, GitHub, Bitbucket, Gitlab 
 - **Cloud Platform:** Office 365, Amazon Web Services, Azure, Netlify, Digitalocean, Cloudflare, Vercel, Jira etc.
 - **Databases:** MySQL, PostgreSQL, MongoDB
