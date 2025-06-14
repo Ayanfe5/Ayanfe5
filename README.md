@@ -1,23 +1,26 @@
 # Technology Stack
 
 - **Operating System:** Linux, Windows, Mac OS
-- **Infrastructure-as-Code/Configuration Management:** Ansible, Terraform, CloudFormation
-- **Containers/Orchestration:** Docker, Docker swarm, Kubernetes(AKS/EKS)
-- **Monitoring/Logging:** Grafana, Data dog, Cloud watch
+- **Infrastructure-as-Code/Configuration Management:** Ansible, Terraform, ARM Template, CloudFormation
+- **Containers/Orchestration:** Docker, Docker, Kubernetes(Azure, AWS, GCP), Rancher.
+- **Monitoring/Logging:** Grafana, Data dog, Cloud watch, New Relic
 - **Scripting:** Bash/PowerShell, JSON/YAML, Python
-- **Source Code Management:** Git, GitHub, Bitbucket, Gitlab 
-- **Cloud Platform:** Office 365, Amazon Web Services, Azure, Netlify, Digitalocean, Cloudflare, Vercel, Jira etc.
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Source Code Management:** Git, GitHub, Bitbucket, Gitlab, CircleCI. 
+- **Cloud Platform:** Office 365, Amazon Web Services, Azure, Google Cloud, Linode, Netlify, Digitalocean, Cloudflare, Vercel, Jira etc.
+- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle.
 - **Agile Methodologies:** Scrum
-- **Communication Tools:** Slack, Zoom, Microsoft Teams, Anydesk
+- **Communication Tools:** Slack, Zoom, Microsoft Teams, Google Hangout, Anydesk.
 
 
 # About
 
-A Cloud Infrastructure Engineer keen on automating processes in order to enhance software development, deployment, and maintenance.
+Passionate about building, automating, and optimizing cloud environments to enhance software development, deployment, and operations. Experienced in cloud platforms, infrastructure as code, and DevOps best practices, with a strong focus on scalability, security, and performance optimization.
 
-With experience in cloud technologies such as Amazon Web Services (AWS), Microsoft Azure, Cloudflare, Netlify, Vercel, Heroku and Digital ocean. I have an understanding of infrastructure-as-code (IaC) using tools such as Terraform, Cloud formation, and Ansible to automate infrastructure provisioning and configuration management.
+Skilled in:
+○ Cloud Infrastructure: Designing and managing cloud-native, scalable environments.
+○ Automation & DevOps: Streamlining workflows, CI/CD pipelines, and infrastructure provisioning.
+○ Performance & Security: Ensuring reliability, optimization, and compliance in cloud systems.
 
-Experience implementing DevOps principles and the ability to build CI/CD pipelines using GitHub actions, bitbucket pipeline, Azure pipeline etc. I have a proven ability to troubleshoot technical issues, optimize system performance, and provide ongoing support and maintenance for systems.
+Beyond the technical aspects, collaboration is at the heart of everything, working with cross-functional teams to drive efficiency and innovation. Always learning, always adapting and committed to building future-ready cloud solutions.
 
-I work closely with cross-functional teams, including developers, QA, and operations, to ensure a smooth software development life cycle. I also have excellent communication and problem-solving skills, making me an invaluable asset to any organization looking to build and manage cloud-based infrastructure and applications efficiently.
+Let’s connect and build something great!
