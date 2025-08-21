@@ -7,7 +7,7 @@
 - **Scripting:** Bash/PowerShell, JSON/YAML, Python
 - **Source Code Management:** Git, GitHub, Bitbucket, Gitlab, CircleCI. 
 - **Cloud Platform:** Office 365, Amazon Web Services, Azure, Google Cloud, Linode, Netlify, Digitalocean, Cloudflare, Vercel, Jira etc.
-- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle.
+- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, PgBouncer.
 - **Agile Methodologies:** Scrum
 - **Communication Tools:** Slack, Zoom, Microsoft Teams, Google Hangout, Anydesk.
 
